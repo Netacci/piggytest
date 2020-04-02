@@ -126,7 +126,7 @@ select {
 .bottom {
   padding: 10px;
   margin-bottom: 10px;
-  text-align: center;
+  
   margin-left: 70px;
 }
 .bottom > p {
