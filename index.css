@@ -127,9 +127,10 @@ select {
   padding: 10px;
   margin-bottom: 10px;
   text-align: center;
+  margin-left: 100px;
 }
 .bottom > p {
-  font-size: 14px;
+  font-size: 12px;
   font-family: "Karla", sans-serif;
-  margin-left: 100px;
+  
 }
